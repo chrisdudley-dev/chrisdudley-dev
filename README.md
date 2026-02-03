@@ -9,10 +9,8 @@ I like projects that are deterministic, easy to run, and designed for **auditabi
 - **IoT:** [Smart Edge Cloud Thermohygrometer](https://github.com/chrisdudley-dev/smart-edge-cloud-thermohygrometer)
 
 ## Featured work
-- **Nexus Lab Tracker** - deterministic CLI -> API workflows + reproducible snapshots  
-  https://github.com/chrisdudley-dev/nexus-lab-tracker
-- **Smart Edge-to-Cloud Thermohygrometer** - Raspberry Pi IoT monitoring + AWS  
-  https://github.com/chrisdudley-dev/smart-edge-cloud-thermohygrometer
+- **[Nexus Lab Tracker](https://github.com/chrisdudley-dev/nexus-lab-tracker)** - deterministic CLI -> API workflows + reproducible snapshots
+- **[Smart Edge-to-Cloud Thermohygrometer](https://github.com/chrisdudley-dev/smart-edge-cloud-thermohygrometer)** - Raspberry Pi IoT monitoring + AWS
 
 ## Engineering principles I care about
 - Deterministic scripts and repeatable setup
