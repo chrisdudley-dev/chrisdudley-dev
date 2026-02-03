@@ -1,16 +1,21 @@
-## Hi there 👋
+![Banner](./assets/banner.svg)
 
-<!--
-**chrisdudley-dev/chrisdudley-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I build
+I’m Christopher — a Computer Science student focused on **reproducible, automation-first systems**.
+I like projects that are *deterministic*, easy to run, and designed for **auditability**.
 
-Here are some ideas to get you started:
+## Featured work
+- **Nexus Lab Tracker** — a mini-LIMS + CLI→API workflows with reproducible snapshots  
+  → https://github.com/chrisdudley-dev/nexus-lab-tracker
+- **Smart Edge-to-Cloud Thermohygrometer** — Raspberry Pi IoT monitoring + AWS  
+  → https://github.com/chrisdudley-dev/smart-edge-cloud-thermohygrometer
+- **Algorithms & data structures** — learning projects with clear problem statements and tests  
+  (I’m gradually consolidating these into fewer, higher-quality repos.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Engineering principles I care about
+- ✅ Deterministic scripts and repeatable workflows  
+- ✅ Logging + verification (backup, export, diffable changes)  
+- ✅ Security-minded defaults (least-privilege tokens, no secrets in repos)
+
+## Contact
+- Email: chrisdudley.dev@gmail.com
