@@ -5,8 +5,8 @@ I'm Christopher - a Computer Science student focused on **reproducible, automati
 I like projects that are deterministic, easy to run, and designed for **auditability**.
 
 ## Start here
-- **Flagship:** Nexus Lab Tracker � -> https://github.com/chrisdudley-dev/nexus-lab-tracker
-- **IoT:** Smart Edge Cloud Thermohygrometer � -> https://github.com/chrisdudley-dev/smart-edge-cloud-thermohygrometer
+- **Flagship:** [Nexus Lab Tracker](https://github.com/chrisdudley-dev/nexus-lab-tracker)
+- **IoT:** [Smart Edge Cloud Thermohygrometer](https://github.com/chrisdudley-dev/smart-edge-cloud-thermohygrometer)
 
 ## Featured work
 - **Nexus Lab Tracker** - deterministic CLI -> API workflows + reproducible snapshots  
