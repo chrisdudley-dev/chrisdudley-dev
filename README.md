@@ -11,7 +11,8 @@ I like projects that are deterministic, easy to run, and designed for auditabili
 ## Highlights
 - Deterministic scripts + repeatable setup
 - Logging + verification for exports/backups
-- Security-minded defaults (no secrets committed)
+- Security-minded defaults
+- Business-to-Business design principles
 
 ## Current focus
 Nexus Lab Tracker: tightening the demo path (quickstart, tests, and one clear end-to-end workflow).
